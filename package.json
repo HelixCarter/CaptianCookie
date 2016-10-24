@@ -1,5 +1,5 @@
 {
-  "name": "discord-bot",
+  "name": "Captain_Cookie",
   "version": "1.0.0",
   "description": "Relay Github webhooks to Discord server.",
   "main": "index.js",
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/Pterodactyl/Discord-Bot.git"
   },
-  "author": "Dane Everitt",
+  "author": "Helix Carter",
   "license": "Unlicense",
   "bugs": {
     "url": "https://github.com/Pterodactyl/Discord-Bot/issues"
